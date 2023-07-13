@@ -1,4 +1,4 @@
-# Revistaseguridadvial
+# Pagina web - Seguridad Vial
 En la siguiente página web encontraremos información sobre el tema “Seguridad Vial”;
 Creada con códigos, HTML, CSS, JS, JSON, FAVICON E IMÁGENES.
 En el HTML:
